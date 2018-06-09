@@ -1,4 +1,4 @@
-# mirror.tk-v5
+# Mirror v5
 
 The best csgo cheat.
 
@@ -9,3 +9,5 @@ The best csgo cheat.
 ## Authors
 
 * **FreaK** - *Initial work* - [FreaK's YouTube](https://www.youtube.com/channel/UCRro1gfrlNZO5dlox02icpQ)
+
+### NOTE: I did not contribute to this project in any way whatsoever.
